@@ -1,4 +1,4 @@
 # Numpy
-Numpy Learning
+Basics of Numpy Learning
 
 
